@@ -1,5 +1,5 @@
 # skinpop diy eurorack cases
-Fusion360 design files for my eurorack cases.
+This repository holds Fusion360 design files for my eurorack cases.
 
 Screw holes for the rails are specific to rails with end brackets sold by [Clicks & Clocks](https://clicksclocks.de/). 
 Make sure to modify the files to fit your rails(including removing/modifying bracket thickness!) before starting a build!
