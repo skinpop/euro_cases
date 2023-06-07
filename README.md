@@ -9,7 +9,7 @@ The 9u case was designed to house a [Trogotronic m15](https://www.trogotronic.co
 
 The 9u design is parameterized and can be modifed by changing variables in the Parameters dialogue.
 
-*3u case*
+*3u MDF case*
 
 <img src="3u.jpg" width="480"/>
 
